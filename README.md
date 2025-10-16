@@ -1,12 +1,12 @@
 ## Hi there 👋
 
-# 👨‍💻 Alejandro — Desarrollador Full Stack  
+#  Alejandro — Desarrollador Full Stack  
 
 Hola, Soy **Alejandro**, un apasionado del desarrollo de software con enfoque **Full Stack**. Me gusta crear soluciones tecnológicas limpias, funcionales y con un diseño atractivo. Busco seguir creciendo profesionalmente y contribuir en proyectos que mezclen innovación, lógica y creatividad.
 
 ---
 
-## 🧠 Tecnologías y Lenguajes
+## Tecnologías y Lenguajes
 
 | Frontend | Backend | Base de Datos | Otros |
 |-----------|----------|----------------|--------|
@@ -16,7 +16,7 @@ Hola, Soy **Alejandro**, un apasionado del desarrollo de software con enfoque **
 
 ---
 
-## ⚙️ Habilidades
+##  Habilidades
 
 - Desarrollo web **frontend y backend**  
 - Diseño de interfaces modernas y adaptativas  
@@ -27,7 +27,7 @@ Hola, Soy **Alejandro**, un apasionado del desarrollo de software con enfoque **
 
 ---
 
-## 🚀 Objetivo Profesional
+##  Objetivo Profesional
 
 Convertirme en un **Desarrollador Full Stack Senior**, participando en proyectos que impulsen mi crecimiento técnico y personal, mientras aporto valor real mediante soluciones eficientes, seguras y escalables.
 
@@ -49,20 +49,20 @@ Convertirme en un **Desarrollador Full Stack Senior**, participando en proyectos
 
 ---
 
-## 🏆 Logros y Actividad Destacada
+##  Logros y Actividad Destacada
 
-- ⭐ Repositorios personales con proyectos de **frontend, backend y bases de datos**
-- 🧩 Colaboración en proyectos académicos y open source
-- 💡 Enfoque en la mejora continua, calidad de código y optimización de rendimiento
-- ⚙️ Integración de herramientas modernas y metodologías ágiles
-
----
-
-## 📫 Contacto
-
-- 📧 **Correo:** argaezcarvajalalejandro@gmail.com
-- 🌐 **Portafolio / GitHub:** [github.com/Alejo1711](https://github.com/Alejo1711)  
+-  Repositorios personales con proyectos de **frontend, backend y bases de datos**
+-  Colaboración en proyectos académicos y open source
+-  Enfoque en la mejora continua, calidad de código y optimización de rendimiento
+-  Integración de herramientas modernas y metodologías ágiles
 
 ---
 
-⭐ *“El código es como el arte: cuando lo haces con pasión, se nota.”*
+## Contacto
+
+-  **Correo:** argaezcarvajalalejandro@gmail.com
+-  **Portafolio / GitHub:** [github.com/Alejo1711](https://github.com/Alejo1711)  
+
+---
+
+ *“El código es como el arte: cuando lo haces con pasión, se nota.”*
