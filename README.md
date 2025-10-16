@@ -60,7 +60,7 @@ Convertirme en un **Desarrollador Full Stack Senior**, participando en proyectos
 
 ## 📫 Contacto
 
-- 📧 **Correo:** tu-correo@ejemplo.com  
+- 📧 **Correo:** argaezcarvajalalejandro@gmail.com
 - 🌐 **Portafolio / GitHub:** [github.com/Alejo1711](https://github.com/Alejo1711)  
 
 ---
