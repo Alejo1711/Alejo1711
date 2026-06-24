@@ -1,68 +1,124 @@
-## Hi there 👋
+<div align="center">
 
-#  Alejandro — Desarrollador Full Stack  
+# Alejandro
 
-Hola, Soy **Alejandro**, un apasionado del desarrollo de software con enfoque **Full Stack**. Me gusta crear soluciones tecnológicas limpias, funcionales y con un diseño atractivo. Busco seguir creciendo profesionalmente y contribuir en proyectos que mezclen innovación, lógica y creatividad.
+Software Developer
 
----
+Building software, learning continuously, and turning ideas into scalable solutions.
 
-## Tecnologías y Lenguajes
-
-| Frontend | Backend | Base de Datos | Otros |
-|-----------|----------|----------------|--------|
-| HTML5 | PHP | MySQL | Git / GitHub |
-| CSS3 | Python | SQL | API REST |
-| JavaScript (ES6+) |  |  | |
-
----
-
-##  Habilidades
-
-- Desarrollo web **frontend y backend**  
-- Diseño de interfaces modernas y adaptativas  
-- Creación y consumo de **APIs RESTful**  
-- Gestión de bases de datos relacionales (**MySQL**)  
-- Manejo de control de versiones con **Git y GitHub**  
-- Buenas prácticas, código limpio y enfoque en calidad  
-
----
-
-##  Objetivo Profesional
-
-Convertirme en un **Desarrollador Full Stack Senior**, participando en proyectos que impulsen mi crecimiento técnico y personal, mientras aporto valor real mediante soluciones eficientes, seguras y escalables.
-
----
-
-## 📊 Estadísticas de GitHub
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Alejo1711&show_icons=true&theme=tokyonight&count_private=true" alt="Estadísticas de GitHub de Alejandro" />
+<p>
+  <a href="https://github.com/Alejo1711">
+    <img src="https://komarev.com/ghpvc/?username=Alejo1711&style=flat-square&color=blue"/>
+  </a>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alejo1711&layout=compact&theme=tokyonight" alt="Lenguajes más usados" />
-</p>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Python+Developer;Backend+Development;Django;Software+Engineering;Always+Learning"/>
+
+</div>
+
+---
+
+## About
+
+```txt
+Name          : Alejandro
+Username      : Alejo1711
+Focus          : Backend Development
+Current Stack  : Python · Django · JavaScript · MySQL
+Main Goal      : Build reliable and scalable software
+```
+
+---
+
+## Technologies
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Alejo1711&theme=tokyonight" alt="Racha de commits" />
+<img src="https://skillicons.dev/icons?i=python,django,js,html,css,mysql,git,github,vscode,linux" />
 </p>
 
 ---
 
-##  Logros y Actividad Destacada
+## GitHub Analytics
 
--  Repositorios personales con proyectos de **frontend, backend y bases de datos**
--  Colaboración en proyectos académicos y open source
--  Enfoque en la mejora continua, calidad de código y optimización de rendimiento
--  Integración de herramientas modernas y metodologías ágiles
+<p align="center">
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=Alejo1711&show_icons=true&hide_border=true&theme=github_dark"/>
 
----
-
-## Contacto
-
--  **Correo:** argaezcarvajalalejandro@gmail.com
--  **Portafolio / GitHub:** [github.com/Alejo1711](https://github.com/Alejo1711)  
+<img width="48%" src="https://streak-stats.demolab.com?user=Alejo1711&theme=github-dark-blue&hide_border=true"/>
+</p>
 
 ---
 
- *“El código es como el arte: cuando lo haces con pasión, se nota.”*
+## Activity Graph
+
+<p align="center">
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Alejo1711&theme=github-compact"/>
+</p>
+
+---
+
+## Most Used Languages
+
+<p align="center">
+<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alejo1711&layout=compact&hide_border=true&theme=github_dark"/>
+</p>
+
+---
+
+## Featured Project
+
+<div align="center">
+
+<a href="https://github.com/Alejo1711/TEIR">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Alejo1711&repo=TEIR&theme=github_dark&hide_border=true"/>
+</a>
+
+</div>
+
+---
+
+## Contribution Snake
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/Alejo1711/Alejo1711/output/github-contribution-grid-snake-dark.svg"/>
+</p>
+
+---
+
+## Current Focus
+
+```python
+class Alejandro:
+
+    def __init__(self):
+        self.name = "Alejandro"
+        self.role = "Software Developer"
+
+    def currently_learning(self):
+        return [
+            "Python",
+            "Django",
+            "Software Architecture",
+            "Backend Development"
+        ]
+
+    def interests(self):
+        return [
+            "Clean Code",
+            "APIs",
+            "Databases",
+            "Scalable Systems"
+        ]
+```
+
+---
+
+<div align="center">
+
+```txt
+Code.
+Learn.
+Build.
+Repeat.
+```
+
+</div>
