@@ -1,234 +1,235 @@
-# ⚡ ALEJO1711 — DIGITAL BUILDER
+
+<!-- ===================================================== -->
+<!--                 ALEJO1711 | GITHUB PROFILE             -->
+<!-- ===================================================== -->
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050816,40:5427A8,75:00D9FF,100:050816&height=230&section=header&text=ALEJANDRO&fontSize=65&fontColor=FFFFFF&fontAlignY=38&desc=BACKEND%20DEVELOPER%20%7C%20TECH%20ENTHUSIAST&descSize=15&descAlignY=58&animation=twinkling" width="100%" />
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2500&pause=800&color=00D9FF&center=true&vCenter=true&width=700&lines=Hello%2C+World!+I'm+Alejandro+%F0%9F%91%8B;Backend+Developer+in+Progress;Python+%7C+Django+%7C+JavaScript;Building+ideas+into+real+software;Always+learning.+Always+building." alt="Typing SVG" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:080B16,45:191B46,100:007C91&height=220&section=header&text=ALEJANDRO&fontSize=65&fontColor=FFFFFF&fontAlignY=38&desc=BACKEND%20DEVELOPER%20%7C%20SOFTWARE%20DEVELOPMENT&descSize=15&descColor=00E5FF&descAlignY=58&animation=fadeIn" />
 
 <br/>
 
-[![GitHub](https://img.shields.io/badge/GitHub-Alejo1711-111827?style=for-the-badge&logo=github&logoColor=00D9FF)](https://github.com/Alejo1711)
-[![Profile Views](https://komarev.com/ghpvc/?username=Alejo1711&style=for-the-badge&color=5427A8&label=PROFILE+VIEWS)](https://github.com/Alejo1711)
+<a href="https://github.com/Alejo1711">
+  <img src="https://img.shields.io/badge/GITHUB-ALEJO1711-111827?style=for-the-badge&logo=github&logoColor=00E5FF" />
+</a>
+<a href="mailto:argaezcarvajalalejandro@gmail.com">
+  <img src="https://img.shields.io/badge/EMAIL-CONTACT-111827?style=for-the-badge&logo=gmail&logoColor=EA4335" />
+</a>
+<a href="https://komarev.com/ghpvc/?username=Alejo1711">
+  <img src="https://komarev.com/ghpvc/?username=Alejo1711&style=for-the-badge&color=6C3BBA&label=PROFILE+VIEWS" />
+</a>
+
+<br/><br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=3000&pause=1200&color=00E5FF&center=true&vCenter=true&width=650&lines=Building+software+with+purpose.;Learning+every+day.+Improving+every+commit.;Python+%7C+Django+%7C+SQL+%7C+JavaScript" />
 
 <br/>
 
-`MEDELLÍN, COLOMBIA` · `BACKEND DEVELOPMENT` · `CONTINUOUS LEARNING`
+<sub>
+MEDELLÍN, COLOMBIA &nbsp; • &nbsp; BACKEND DEVELOPMENT &nbsp; • &nbsp; CONTINUOUS LEARNING
+</sub>
 
 </div>
 
----
+<br/>
 
-## `01 // WHO AM I?`
+<!-- ================= ABOUT ================= -->
 
-```python
-class Alejandro:
+## <img src="https://img.shields.io/badge/01-ABOUT%20ME-00D9FF?style=flat-square" />
 
-    def __init__(self):
-        self.username = "Alejo1711"
-        self.name = "Alejandro"
-        self.location = "Medellín, Colombia"
-        self.education = [
-            "Software Programming Technician",
-            "Software Analysis and Development - SENA"
-        ]
+I'm **Alejandro**, a software development student focused on backend development, database management and building practical digital solutions.
 
-        self.role = "Backend Developer in Progress"
+I enjoy understanding how systems work, solving technical problems and transforming ideas into functional software.
 
-        self.current_stack = [
-            "Python",
-            "Django",
-            "JavaScript",
-            "MySQL",
-            "HTML5",
-            "CSS3"
-        ]
+Currently, I'm developing my skills in Python and Django while expanding my knowledge of software testing and Quality Assurance.
 
-        self.interests = [
-            "Backend Development",
-            "Quality Assurance (QA)",
-            "Software Architecture",
-            "Database Design",
-            "Automation"
-        ]
+- **Education:** Software Programming Technician.
+- **Currently studying:** Software Analysis and Development — SENA.
+- **Main focus:** Backend Development.
+- **Location:** Medellín, Colombia.
+- **Interests:** Software Architecture, Databases, Automation and QA.
 
-    def say_hello(self):
-        return "Building software, one commit at a time."
+<br/>
 
+<!-- ================= TECH STACK ================= -->
 
-me = Alejandro()
-print(me.say_hello())
-```
-
-I'm a software development student passionate about building useful, reliable, and scalable applications.
-
-My main focus is backend development, database management, and understanding how software works beyond the interface.
-
-I enjoy solving problems, exploring new technologies, and transforming ideas into functional projects.
-
-**My philosophy:** Don't just write code. Understand it, improve it, and make it better.
-
----
-
-## `02 // TECH ARSENAL`
+## <img src="https://img.shields.io/badge/02-TECH%20STACK-00D9FF?style=flat-square" />
 
 <div align="center">
 
-### PROGRAMMING LANGUAGES
+### LANGUAGES
 
-<img src="https://skillicons.dev/icons?i=python,js,html,css" />
+<img src="https://skillicons.dev/icons?i=python,js,html,css&theme=dark" />
 
-### BACKEND & FRAMEWORKS
+<br/>
 
-<img src="https://skillicons.dev/icons?i=django,fastapi" />
+### BACKEND DEVELOPMENT
+
+<img src="https://skillicons.dev/icons?i=django,fastapi&theme=dark" />
+
+<br/>
 
 ### DATABASES
 
-<img src="https://skillicons.dev/icons?i=mysql,postgresql" />
+<img src="https://skillicons.dev/icons?i=mysql,postgres&theme=dark" />
 
-### DEVELOPMENT TOOLS
+<br/>
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,linux,docker" />
+### TOOLS & ENVIRONMENT
+
+<img src="https://skillicons.dev/icons?i=git,github,docker,vscode,linux&theme=dark" />
 
 </div>
 
----
+<br/>
 
-## `03 // CURRENT OPERATIONS`
+<!-- ================= CURRENT FOCUS ================= -->
 
-<img align="right" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
+## <img src="https://img.shields.io/badge/03-CURRENT%20FOCUS-00D9FF?style=flat-square" />
 
-```yaml
-CURRENT_STATUS:
-  learning: true
-  building: true
-  improving: true
+<div align="center">
 
-FOCUS:
-  - Python
-  - Django
-  - SQL
-  - Software Testing
-  - Quality Assurance
-  - Backend Architecture
+| Area | Current focus |
+|:---|:---|
+| Backend | Python, Django and API development |
+| Databases | SQL, MySQL and PostgreSQL |
+| Software Quality | Testing fundamentals and QA |
+| Development | Git, GitHub and clean code |
+| Architecture | Maintainable and scalable applications |
 
-OBJECTIVE:
-  Build reliable software
-  Develop real-world experience
-  Become a stronger engineer
-```
+</div>
 
-I'm currently strengthening my backend development skills while expanding my knowledge of software testing and quality assurance.
+<br/>
 
----
+<!-- ================= PROJECTS ================= -->
 
-## `04 // PROJECTS UNDER DEVELOPMENT`
+## <img src="https://img.shields.io/badge/04-FEATURED%20PROJECTS-00D9FF?style=flat-square" />
 
-### TEM — TecnoEmprende
+### 01. TEM — TecnoEmprende
 
-> Connecting SENA talent with businesses that need technological solutions.
+**A digital ecosystem connecting SENA talent with businesses.**
 
-**Concept:** A web ecosystem that connects entrepreneurs and companies with software development talent.
-
-| Component | Technology |
-|---|---|
-| Backend | Python / Django |
-| Architecture | MVT |
-| Database | MySQL / MariaDB |
-| Frontend | HTML5 / CSS3 / JavaScript |
+A web platform designed to connect companies and entrepreneurs with software development talent from SENA.
 
 **Main features:**
-- User management and authentication.
+- User registration and authentication.
 - Company and developer profiles.
 - Project publication and applications.
 - Hiring and project tracking.
 - Messaging and notifications.
 - Administrative management.
 
-**Status:** Under development.
+**Technology:**
+
+<img src="https://skillicons.dev/icons?i=python,django,mysql,js,html,css&theme=dark" />
+
+<sub>STATUS: IN DEVELOPMENT</sub>
 
 ---
 
-## `05 // GITHUB ANALYTICS`
+### 02. Local Document Verification
 
-<div align="center">
+**Local-first document analysis and verification.**
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Alejo1711&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=9D4EDD&text_color=FFFFFF&rank_icon=github" />
+A document verification solution designed to help administrators review company documents and SENA learner certificates using local processing and deterministic validation.
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alejo1711&layout=compact&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF&langs_count=8" />
+**Technical approach:**
+- PDF text extraction.
+- OCR fallback for scanned documents.
+- Automated data comparison.
+- Confidence indicators and review alerts.
+- Human approval of final decisions.
+
+**Technology under consideration:**
+
+<img src="https://skillicons.dev/icons?i=python,docker,postgres&theme=dark" />
+
+<sub>STATUS: DESIGN & DEVELOPMENT</sub>
+
+---
+
+### 03. PPTMaps
+
+**Geospatial data and route visualization.**
+
+A project exploring geospatial information and map-based solutions, with an emphasis on geographic data processing and route visualization.
+
+**Technology:**
+
+<img src="https://skillicons.dev/icons?i=python,fastapi,postgres,docker,redis&theme=dark" />
+
+<sub>STATUS: DEVELOPMENT</sub>
 
 <br/>
 
-<img width="70%" src="https://streak-stats.demolab.com?user=Alejo1711&theme=transparent&hide_border=true&ring=00D9FF&fire=9D4EDD&currStreakLabel=00D9FF&sideLabels=FFFFFF&dates=8B949E" />
+<!-- ================= GITHUB ANALYTICS ================= -->
 
-</div>
-
----
-
-## `06 // DEVELOPER TERMINAL`
-
-<div align="center">
-
-```bash
-┌──(alejo㉿developer)-[~/future]
-└─$ whoami
-
-Alejandro | Backend Developer in Progress
-
-└─$ cat mission.txt
-
-Learn continuously.
-Build meaningful projects.
-Write clean and maintainable code.
-Never stop improving.
-
-└─$ git status
-
-On branch: main
-Working tree: always evolving
-
-└─$ _
-```
-
-</div>
-
----
-
-## `07 // BEYOND THE CODE`
-
-```text
-[+] Problem solving
-[+] Continuous learning
-[+] Software development
-[+] Exploring new technologies
-[+] Building personal projects
-[+] Improving every day
-```
-
-I believe becoming a good developer is not about knowing every programming language.
-
-It's about learning how to think, solve problems, and build solutions that make a difference.
-
----
-
-## `08 // CONNECT WITH ME`
+## <img src="https://img.shields.io/badge/05-GITHUB%20ANALYTICS-00D9FF?style=flat-square" />
 
 <div align="center">
 
 <a href="https://github.com/Alejo1711">
-<img src="https://img.shields.io/badge/GitHub-00D9FF?style=for-the-badge&logo=github&logoColor=0D1117" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Alejo1711&show_icons=true&hide_border=true&bg_color=0B1020&title_color=00D9FF&icon_color=9D7BFF&text_color=E6EDF3&rank_icon=github&include_all_commits=true" />
 </a>
-
-<a href="mailto:argaezcarvajalalejandro@gmail.com">
-<img src="https://img.shields.io/badge/Email-9D4EDD?style=for-the-badge&logo=gmail&logoColor=white" />
+<a href="https://github.com/Alejo1711">
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alejo1711&layout=compact&hide_border=true&bg_color=0B1020&title_color=00D9FF&text_color=E6EDF3&langs_count=6" />
 </a>
 
 <br/><br/>
 
-**OPEN TO LEARNING, COLLABORATING AND BUILDING SOMETHING GREAT.**
+<img width="75%" src="https://streak-stats.demolab.com?user=Alejo1711&theme=transparent&hide_border=true&ring=00D9FF&fire=9D7BFF&currStreakLabel=00D9FF&sideLabels=E6EDF3&dates=8B949E" />
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050816,50:5427A8,100:00D9FF&height=120&section=footer" width="100%" />
+</div>
 
-`SYSTEM STATUS: ONLINE`
+<br/>
+
+<!-- ================= CONTRIBUTIONS ================= -->
+
+## <img src="https://img.shields.io/badge/06-CONTRIBUTION%20ACTIVITY-00D9FF?style=flat-square" />
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Alejo1711&bg_color=0B1020&color=00D9FF&line=7755CC&point=FFFFFF&area=true&hide_border=true&custom_title=DEVELOPMENT%20ACTIVITY" width="100%" />
+
+</div>
+
+<br/>
+
+<!-- ================= PHILOSOPHY ================= -->
+
+## <img src="https://img.shields.io/badge/07-MY%20PHILOSOPHY-00D9FF?style=flat-square" />
+
+<div align="center">
+
+### "Great software is built through curiosity, consistency and attention to detail."
+
+<sub>Understand the problem. Design the solution. Build it. Improve it.</sub>
+
+</div>
+
+<br/>
+
+<!-- ================= CONTACT ================= -->
+
+## <img src="https://img.shields.io/badge/08-LET'S%20CONNECT-00D9FF?style=flat-square" />
+
+<div align="center">
+
+I'm always interested in learning, collaborating and building meaningful software.
+
+<br/>
+
+<a href="https://github.com/Alejo1711">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+<a href="mailto:argaezcarvajalalejandro@gmail.com">
+  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+<br/><br/>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:080B16,50:191B46,100:007C91&height=110&section=footer" />
+
+<sub>DESIGNED & BUILT BY ALEJO1711 · KEEP BUILDING.</sub>
 
 </div>
